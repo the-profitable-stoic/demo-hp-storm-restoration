@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "HP Storm Restoration",
+    "phone": "+19048628408",
+    "category": "roofing contractor",
+    "city": "Tampa",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Tampa's Trusted Roofing Experts",
+      "heroSubline": "HP Storm Restoration delivers unwavering quality and protection across the Tampa Bay area. From storm damage repair to full roof replacements, we've got you covered.",
+      "aboutTitle": "Integrity Above All Else",
+      "aboutText": [
+        "HP Storm Restoration started with a simple goal: to provide Tampa homeowners with honest, reliable roofing services. We saw too many fly-by-night operators taking advantage of people after storms, and we knew we could do better.",
+        "Our approach is straightforward: clear communication, meticulous workmanship, and a commitment to doing the job right the first time. We treat every roof as if it were our own, ensuring lasting protection against Florida's harsh weather.",
+        "We're proud to be a part of the Tampa community, supporting local initiatives and giving back whenever we can. Our reputation is built on trust, and we work hard to earn it every day."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team has decades of combined experience tackling all types of roofing challenges specific to the Tampa area."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique demands of Florida's climate, from hurricane-force winds to relentless sun exposure."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only the highest-grade materials from trusted manufacturers, ensuring lasting durability and performance."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide detailed, upfront estimates with no hidden fees, so you know exactly what to expect."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Get a free, no-obligation roof inspection and discover the HP Storm Restoration difference."
+    },
+    "services": [
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Swift and reliable roof repair services to protect your Tampa home from further damage.",
+        "description": "From minor leaks to extensive storm damage, HP Storm Restoration provides comprehensive roof repair services for Tampa homeowners. We understand the urgency of these situations, especially during hurricane season, and respond quickly to assess the damage and implement effective solutions. Our team is skilled in repairing all types of roofing materials, including shingle, tile, metal, and flat roofs. We address issues such as missing or damaged shingles, leaks around vents and chimneys, cracked tiles, and deteriorated flashing. We don't just patch the problem; we identify the root cause and provide lasting repairs that prevent future issues. \n\nWe conduct thorough inspections to identify hidden damage and provide detailed reports with clear explanations of the necessary repairs. Our goal is to restore your roof's integrity and protect your home from water intrusion, mold growth, and structural damage. We work efficiently to minimize disruption to your daily life and ensure your complete satisfaction. We also offer emergency roof repair services for urgent situations that require immediate attention.\n\nHP Storm Restoration is committed to using quality materials and proven techniques to deliver durable and reliable roof repairs. We stand behind our work and offer warranties on all our repairs, giving you peace of mind knowing your roof is in good hands.",
+        "process": [
+          "Thorough roof inspection and damage assessment",
+          "Detailed repair plan and transparent quote",
+          "Quality materials and expert workmanship",
+          "Final inspection and warranty coverage"
+        ],
+        "benefits": [
+          "Prevents further water damage",
+          "Extends the life of your roof",
+          "Protects your home's structural integrity",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a roof repair request?",
+            "answer": "We prioritize roof repair requests, especially those related to storm damage. We strive to respond within 24 hours and provide emergency services as needed."
+          },
+          {
+            "question": "What types of roof repairs do you handle?",
+            "answer": "We handle all types of roof repairs, including shingle replacement, leak repair, flashing repair, and structural damage repair. Our team is experienced in working with various roofing materials."
+          },
+          {
+            "question": "Do you offer warranties on your roof repairs?",
+            "answer": "Yes, we offer warranties on all our roof repairs. The specific warranty terms will depend on the type of repair and the materials used."
+          }
+        ]
+      },
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Upgrade your Tampa home with a durable and beautiful new roof from HP Storm Restoration.",
+        "description": "When roof repairs are no longer sufficient, a full roof replacement is the best solution to protect your Tampa home. HP Storm Restoration offers comprehensive roof replacement services, guiding you through every step of the process, from material selection to final inspection. We understand that a new roof is a significant investment, and we're committed to providing you with a high-quality, long-lasting roof that enhances your home's value and curb appeal.\n\nWe offer a wide range of roofing materials to suit your style and budget, including asphalt shingles, tile, metal, and flat roofing systems. Our team will help you choose the best option for your home, considering factors such as durability, energy efficiency, and aesthetic appeal. We handle all aspects of the roof replacement process, including removing the old roof, inspecting the underlying structure, installing new underlayment, and installing the new roofing material. \n\nHP Storm Restoration adheres to strict quality standards and building codes to ensure your new roof is installed correctly and will withstand Florida's harsh weather conditions. We work efficiently to minimize disruption to your daily life and provide regular updates throughout the project. We're committed to your complete satisfaction and offer warranties on all our roof replacements.",
+        "process": [
+          "Initial consultation and roof inspection",
+          "Material selection and project planning",
+          "Old roof removal and structural inspection",
+          "New roof installation and final inspection"
+        ],
+        "benefits": [
+          "Enhanced protection from the elements",
+          "Increased property value",
+          "Improved energy efficiency",
+          "Enhanced curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement typically take?",
+            "answer": "The duration of a roof replacement depends on the size and complexity of the roof, as well as weather conditions. Most roof replacements can be completed in 1-3 days."
+          },
+          {
+            "question": "Do I need to be home during the roof replacement process?",
+            "answer": "It's not necessary for you to be home during the roof replacement, but we recommend being available by phone if we have any questions or need to discuss any issues."
+          },
+          {
+            "question": "What type of warranty do you offer on roof replacements?",
+            "answer": "We offer comprehensive warranties on our roof replacements, covering both materials and workmanship. The specific warranty terms will vary depending on the roofing material selected."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspection",
+        "name": "Roof Inspection",
+        "shortDescription": "Comprehensive roof inspections to identify potential problems and protect your Tampa home.",
+        "description": "Regular roof inspections are essential for maintaining the integrity of your Tampa home and preventing costly repairs. HP Storm Restoration offers thorough roof inspection services to identify potential problems early on, such as leaks, damaged shingles, and structural issues. Our experienced inspectors will carefully examine your roof, looking for signs of wear and tear, storm damage, and improper installation.\n\nWe provide detailed reports with clear explanations of our findings, including photographs and recommendations for necessary repairs or maintenance. Our roof inspections can help you identify and address minor issues before they escalate into major problems, saving you time and money in the long run. We also provide roof inspections for real estate transactions, helping buyers and sellers make informed decisions about the condition of the roof.\n\nHP Storm Restoration uses advanced technology and proven techniques to conduct our roof inspections, ensuring accuracy and thoroughness. We're committed to providing you with honest and reliable information about the condition of your roof, so you can make informed decisions about its care and maintenance. Protect your investment and schedule a roof inspection today.",
+        "process": [
+          "Visual inspection of roof surface",
+          "Inspection of flashing, vents, and chimneys",
+          "Assessment of structural integrity",
+          "Detailed report with findings and recommendations"
+        ],
+        "benefits": [
+          "Early detection of potential problems",
+          "Prevention of costly repairs",
+          "Peace of mind knowing your roof is in good condition",
+          "Informed decision-making about roof maintenance"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, and after any major storms. Regular inspections can help identify potential problems early on and prevent costly repairs."
+          },
+          {
+            "question": "What is included in a roof inspection report?",
+            "answer": "Our roof inspection reports include a detailed description of the roof's condition, photographs of any damage or issues, and recommendations for necessary repairs or maintenance."
+          },
+          {
+            "question": "How much does a roof inspection cost?",
+            "answer": "The cost of a roof inspection depends on the size and complexity of the roof. Contact us for a free quote."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-repair",
+        "name": "Storm Damage Repair",
+        "shortDescription": "Rapid response and expert storm damage repair to restore your Tampa roof after severe weather.",
+        "description": "Tampa's vulnerability to hurricanes and severe thunderstorms means storm damage repair is a critical service. HP Storm Restoration specializes in providing rapid response and expert storm damage repair services to restore your roof after severe weather. We understand the stress and urgency of these situations, and we're committed to helping you get your home back to normal as quickly as possible.\n\nOur team is experienced in assessing and repairing all types of storm damage, including wind damage, hail damage, and water damage. We work with your insurance company to streamline the claims process and ensure you receive the compensation you deserve. We provide temporary repairs to prevent further damage, such as tarping and board-up services, and then proceed with permanent repairs as quickly as possible.\n\nHP Storm Restoration uses quality materials and proven techniques to restore your roof's integrity and protect your home from future damage. We're committed to providing you with peace of mind knowing your roof is in good hands. We also offer emergency storm damage repair services for urgent situations that require immediate attention. Don't wait, call us now!",
+        "process": [
+          "Emergency tarping and board-up services",
+          "Thorough damage assessment and insurance claim assistance",
+          "Quality repairs to restore roof integrity",
+          "Final inspection and warranty coverage"
+        ],
+        "benefits": [
+          "Protection from further damage",
+          "Streamlined insurance claims process",
+          "Restoration of your home's value",
+          "Peace of mind knowing your roof is secure"
+        ],
+        "faq": [
+          {
+            "question": "What should I do if my roof is damaged in a storm?",
+            "answer": "The first thing you should do is contact your insurance company and then call us. We can provide emergency tarping to prevent further damage and assist with the insurance claims process."
+          },
+          {
+            "question": "How long will it take to repair my roof after a storm?",
+            "answer": "The duration of storm damage repair depends on the extent of the damage. We'll provide you with a timeline after assessing the damage and working with your insurance company."
+          },
+          {
+            "question": "Do you work with insurance companies?",
+            "answer": "Yes, we work with all major insurance companies. We can help you file your claim and provide the necessary documentation to expedite the process."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Protect your Tampa home's foundation with expert gutter installation, repair, and cleaning.",
+        "description": "Properly functioning gutters are crucial for protecting your Tampa home's foundation from water damage. HP Storm Restoration offers comprehensive gutter services, including installation, repair, and cleaning. We understand the importance of directing rainwater away from your home's foundation to prevent erosion, leaks, and other costly problems.\n\nWe offer a variety of gutter styles and materials to suit your home's architecture and budget, including aluminum, copper, and vinyl gutters. Our team will help you choose the best option for your home and ensure they are installed correctly to maximize their effectiveness. We also provide gutter repair services, addressing issues such as leaks, clogs, and damaged sections. \n\nHP Storm Restoration is committed to using quality materials and proven techniques to deliver durable and reliable gutter services. We also offer gutter cleaning services to remove leaves, debris, and other obstructions that can cause clogs and reduce the effectiveness of your gutters. Keep your gutters clean!",
+        "process": [
+          "Gutter inspection and assessment",
+          "Gutter cleaning and debris removal",
+          "Gutter repair and replacement",
+          "Gutter installation and maintenance"
+        ],
+        "benefits": [
+          "Protection of your home's foundation",
+          "Prevention of water damage",
+          "Improved drainage and water management",
+          "Enhanced curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, in the spring and fall. If you have a lot of trees around your home, you may need to clean them more frequently."
+          },
+          {
+            "question": "What are the signs that my gutters need repair?",
+            "answer": "Signs that your gutters need repair include leaks, clogs, sagging, and damaged sections. If you notice any of these issues, contact us for an inspection."
+          },
+          {
+            "question": "What types of gutters do you install?",
+            "answer": "We install a variety of gutter styles and materials, including aluminum, copper, and vinyl gutters. We'll help you choose the best option for your home."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-roofing",
+        "name": "Commercial Roofing",
+        "shortDescription": "Reliable commercial roofing services tailored to Tampa businesses.",
+        "description": "HP Storm Restoration provides comprehensive commercial roofing services to businesses throughout the Tampa area. We understand the unique needs of commercial properties and offer tailored solutions to protect your investment. Our team is experienced in working with all types of commercial roofing systems, including flat roofs, metal roofs, and single-ply membranes.\n\nWe offer a range of services, including roof repair, roof replacement, and roof maintenance. We conduct thorough inspections to identify potential problems and provide detailed reports with clear explanations of the necessary repairs or maintenance. We work efficiently to minimize disruption to your business operations and ensure your complete satisfaction.\n\nHP Storm Restoration is committed to using quality materials and proven techniques to deliver durable and reliable commercial roofing services. We understand the importance of protecting your business from the elements, and we're dedicated to providing you with a roofing system that will last for years to come.",
+        "process": [
+          "Detailed assessment of commercial roofing needs",
+          "Customized roofing solutions and material selection",
+          "Professional installation and project management",
+          "Ongoing maintenance and support"
+        ],
+        "benefits": [
+          "Protection of your commercial property",
+          "Extended roof lifespan",
+          "Minimized business disruptions",
+          "Enhanced property value"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial roofing systems do you work with?",
+            "answer": "We work with all types of commercial roofing systems, including flat roofs, metal roofs, and single-ply membranes."
+          },
+          {
+            "question": "How quickly can you respond to a commercial roofing request?",
+            "answer": "We prioritize commercial roofing requests and strive to respond within 24 hours."
+          },
+          {
+            "question": "Do you offer maintenance plans for commercial roofs?",
+            "answer": "Yes, we offer customized maintenance plans to help you keep your commercial roof in top condition."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "St. Petersburg",
+        "slug": "st-petersburg-fl",
+        "state": "FL",
+        "content": "HP Storm Restoration is proud to offer our expert roofing services to the residents of St. Petersburg, Florida. Known for its beautiful waterfront and vibrant arts scene, St. Petersburg is home to many charming homes, particularly the 1920s to 1950s Florida cottage style. We understand the unique roofing needs of these historic homes, from tile repairs to complete roof replacements, ensuring they withstand the hot, humid summers and occasional storms.\n\nOur team is experienced in working with the diverse architectural styles found throughout St. Petersburg, providing tailored solutions that protect your home and enhance its curb appeal. Whether you need storm damage repair, routine maintenance, or a new roof installation, HP Storm Restoration is committed to delivering quality workmanship and exceptional customer service.",
+        "localContext": "St. Petersburg is a city known for its 1920s-50s Florida cottage homes and hot, humid summers, requiring durable and well-maintained roofing systems.",
+        "nearbyAreas": [
+          "Tampa",
+          "Clearwater",
+          "Pinellas Park"
+        ]
+      },
+      {
+        "city": "Clearwater",
+        "slug": "clearwater-fl",
+        "state": "FL",
+        "content": "HP Storm Restoration is dedicated to providing top-notch roofing services to the Clearwater, Florida community. Clearwater, famous for its stunning beaches and family-friendly atmosphere, features a significant number of 1960s and 1970s ranch-style homes. We specialize in addressing the roofing challenges common to these homes, including weather-related damage and aging materials.\n\nOur team is equipped to handle all your roofing needs, from minor repairs to complete roof replacements. We understand the importance of a reliable roof in protecting your home from the elements, especially during the hot, humid summers and occasional hurricane seasons. HP Storm Restoration is committed to delivering quality craftsmanship and exceptional customer service to Clearwater homeowners.",
+        "localContext": "Clearwater's prevalent 1960s-70s ranch homes and hot, humid climate necessitate robust roofing solutions that withstand the elements.",
+        "nearbyAreas": [
+          "Dunedin",
+          "Largo",
+          "Tampa"
+        ]
+      },
+      {
+        "city": "Brandon",
+        "slug": "brandon-fl",
+        "state": "FL",
+        "content": "HP Storm Restoration is pleased to serve the growing community of Brandon, Florida, with our comprehensive roofing services. Brandon, known for its family-friendly environment and suburban developments from the 1980s and 1990s, presents unique roofing challenges due to its diverse housing stock and exposure to the Florida climate.\n\nWe understand the specific needs of Brandon homeowners, offering solutions for everything from storm damage repair to complete roof replacements. Our team is experienced in working with various roofing materials and styles, ensuring that your home is protected from the hot, humid summers and potential severe weather. HP Storm Restoration is committed to providing quality workmanship and exceptional customer service to the residents of Brandon.",
+        "localContext": "Brandon's 1980s-90s suburban developments and hot, humid summers require reliable roofing systems capable of withstanding the climate.",
+        "nearbyAreas": [
+          "Tampa",
+          "Riverview",
+          "Valrico"
+        ]
+      },
+      {
+        "city": "Wesley Chapel",
+        "slug": "wesley-chapel-fl",
+        "state": "FL",
+        "content": "HP Storm Restoration is proud to offer our expert roofing services to the rapidly growing community of Wesley Chapel, Florida. Known for its newer, master-planned communities developed in the 2000s and 2020s, Wesley Chapel presents a mix of modern roofing styles and materials. We specialize in providing roofing solutions that meet the needs of these contemporary homes.\n\nOur team is experienced in working with the latest roofing technologies and materials, ensuring that your home is protected from the elements while maintaining its aesthetic appeal. Whether you need routine maintenance, storm damage repair, or a new roof installation, HP Storm Restoration is committed to delivering quality workmanship and exceptional customer service to Wesley Chapel homeowners.",
+        "localContext": "Wesley Chapel's newer 2000s-2020s master-planned communities and hot, humid summers demand modern and durable roofing solutions.",
+        "nearbyAreas": [
+          "Land O' Lakes",
+          "Zephyrhills",
+          "Lutz"
+        ]
+      },
+      {
+        "city": "Tampa",
+        "slug": "tampa-fl",
+        "state": "FL",
+        "content": "HP Storm Restoration is your trusted roofing partner in Tampa, Florida, providing comprehensive roofing solutions to homeowners throughout the city. Tampa's diverse neighborhoods feature a blend of architectural styles, from historic bungalows to modern homes. We understand the unique roofing needs of each area and offer tailored services to meet those demands.\n\nOur experienced team is equipped to handle all types of roofing projects, from minor repairs to complete roof replacements. We prioritize quality workmanship and exceptional customer service, ensuring that your Tampa home is protected from the elements and looks its best. Whether you need storm damage repair, routine maintenance, or a new roof installation, HP Storm Restoration is here to serve you.",
+        "localContext": "Tampa's variety of architectural styles and hot, humid climate necessitate versatile roofing solutions that can withstand the elements.",
+        "nearbyAreas": [
+          "Brandon",
+          "St. Petersburg",
+          "Clearwater"
+        ]
+      },
+      {
+        "city": "Riverview",
+        "slug": "riverview-fl",
+        "state": "FL",
+        "content": "HP Storm Restoration is dedicated to providing reliable roofing services to the residents of Riverview, Florida. As a rapidly growing community, Riverview features a mix of established neighborhoods and new developments. We understand the roofing needs of homeowners in Riverview and offer tailored solutions to protect their homes.\n\nOur team is experienced in working with various roofing materials and styles, ensuring that your home is protected from the hot, humid summers and potential severe weather. Whether you need storm damage repair, routine maintenance, or a new roof installation, HP Storm Restoration is committed to delivering quality workmanship and exceptional customer service to the Riverview community.",
+        "localContext": "Riverview's mix of established and new homes, along with its hot, humid climate, require robust roofing systems capable of withstanding the elements.",
+        "nearbyAreas": [
+          "Brandon",
+          "Apollo Beach",
+          "Valrico"
+        ]
+      },
+      {
+        "city": "Lutz",
+        "slug": "lutz-fl",
+        "state": "FL",
+        "content": "HP Storm Restoration is proud to offer our expert roofing services to the residents of Lutz, Florida. Lutz is known for its beautiful landscapes, spacious properties, and a mix of older and newer homes. We understand the specific roofing needs of Lutz homeowners and provide tailored solutions to protect their investments.\n\nOur team is experienced in working with various roofing materials and styles, ensuring that your home is protected from the elements while maintaining its aesthetic appeal. Whether you need routine maintenance, storm damage repair, or a new roof installation, HP Storm Restoration is committed to delivering quality workmanship and exceptional customer service to Lutz homeowners.",
+        "localContext": "Lutz's mix of older and newer homes and its hot, humid climate necessitate versatile roofing solutions that can withstand the elements.",
+        "nearbyAreas": [
+          "Land O' Lakes",
+          "Wesley Chapel",
+          "Odessa"
+        ]
+      },
+      {
+        "city": "Land O' Lakes",
+        "slug": "land-o-lakes-fl",
+        "state": "FL",
+        "content": "HP Storm Restoration is pleased to serve the community of Land O' Lakes, Florida, with our comprehensive roofing services. Land O' Lakes is characterized by its numerous lakes, planned communities, and a mix of housing styles. We understand the specific roofing challenges faced by homeowners in this area.\n\nOur team is equipped to handle all types of roofing projects, from minor repairs to complete roof replacements. We prioritize quality workmanship and exceptional customer service, ensuring that your Land O' Lakes home is protected from the elements and looks its best. Whether you need storm damage repair, routine maintenance, or a new roof installation, HP Storm Restoration is here to serve you.",
+        "localContext": "Land O' Lakes' planned communities and hot humid climate require durable and reliable roofing systems.",
+        "nearbyAreas": [
+          "Lutz",
+          "Wesley Chapel",
+          "Odessa"
+        ]
+      },
+      {
+        "city": "Valrico",
+        "slug": "valrico-fl",
+        "state": "FL",
+        "content": "HP Storm Restoration offers expert roofing solutions to the residents of Valrico, Florida. Valrico, known for its family-friendly atmosphere and growing community, features a variety of housing styles and a mix of older and newer homes. We understand the specific roofing needs of Valrico homeowners and provide tailored services to meet those demands.\n\nOur experienced team is equipped to handle all types of roofing projects, from minor repairs to complete roof replacements. We prioritize quality workmanship and exceptional customer service, ensuring that your Valrico home is protected from the elements and looks its best. Whether you need storm damage repair, routine maintenance, or a new roof installation, HP Storm Restoration is here to serve you.",
+        "localContext": "Valrico's mix of older and newer homes, combined with its hot, humid climate, necessitates versatile and reliable roofing solutions.",
+        "nearbyAreas": [
+          "Brandon",
+          "Riverview",
+          "Lithia"
+        ]
+      },
+      {
+        "city": "Pinellas Park",
+        "slug": "pinellas-park-fl",
+        "state": "FL",
+        "content": "HP Storm Restoration is proud to extend our roofing services to Pinellas Park, Florida. Known for its central location in Pinellas County and diverse community, Pinellas Park features a variety of housing styles, from older homes to newer developments. We understand the unique roofing needs of Pinellas Park residents and offer tailored solutions to protect their properties.\n\nOur team is experienced in working with a wide range of roofing materials and styles, ensuring that your home is protected from the elements while maintaining its aesthetic appeal. Whether you require routine maintenance, storm damage repairs, or a complete roof replacement, HP Storm Restoration is dedicated to delivering exceptional workmanship and customer satisfaction to the Pinellas Park community.",
+        "localContext": "Pinellas Park's diverse housing styles and hot, humid climate necessitate versatile roofing solutions that are both durable and aesthetically pleasing.",
+        "nearbyAreas": [
+          "St. Petersburg",
+          "Largo",
+          "Clearwater"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "HP Storm Restoration was fantastic! I had a leak in my roof after a bad thunderstorm and they came out the next day to fix it. The technician, Dave, was very professional and explained everything clearly. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Tom S.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "We recently had our entire roof replaced by HP Storm Restoration and couldn't be happier. The crew was efficient, respectful, and did an excellent job. Our new roof looks great and we feel much safer now during hurricane season.",
+        "date": "2024-11-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 4,
+        "service": "Roof Inspection",
+        "text": "We used HP Storm Restoration for a roof inspection before buying a new home in South Tampa. They were very thorough and provided a detailed report that helped us negotiate a better price. Good service!",
+        "date": "2024-08-20"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Storm Damage Repair",
+        "text": "After Hurricane Ian, our roof was a mess. HP Storm Restoration responded quickly and helped us navigate the insurance claim process. They did an amazing job repairing the damage and we are very grateful for their help.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Karen M.",
+        "rating": 5,
+        "service": "Gutter Services",
+        "text": "HP Storm Restoration installed new gutters on our home and they look great! The team was professional and efficient, and the gutters are working perfectly. No more water pooling around our foundation!",
+        "date": "2024-06-05"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Roof Repair",
+        "text": "Had a small leak around my chimney. HP Storm Restoration was able to diagnose and fix it quickly. Price was fair and the service was prompt.",
+        "date": "2024-09-22"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "HP Storm Restoration | Tampa Roofing",
+        "description": "Top Tampa roofing contractor. Roof repair, replacement, inspections. Protect your home from Florida storms. Free quotes!"
+      },
+      "about": {
+        "title": "About HP Storm Restoration | Tampa Roofing",
+        "description": "Learn about HP Storm Restoration, Tampa's trusted roofing experts. Quality, integrity, and community commitment. Serving Tampa Bay."
+      },
+      "services": {
+        "title": "Roofing Services | HP Storm Restoration Tampa",
+        "description": "Comprehensive roofing services in Tampa, FL. Repair, replacement, inspections, storm damage. Quality work, affordable prices."
+      },
+      "contact": {
+        "title": "Contact HP Storm Restoration | Tampa Roofing",
+        "description": "Contact HP Storm Restoration for roofing services in Tampa. Get a free quote today! Call us at +19048628408."
+      },
+      "reviews": {
+        "title": "HP Storm Restoration Reviews | Tampa Roofing",
+        "description": "Read reviews for HP Storm Restoration, Tampa's leading roofing contractor. See what our satisfied customers are saying."
+      },
+      "service-areas": {
+        "title": "Service Areas | Tampa Roofing Contractor",
+        "description": "HP Storm Restoration provides roofing services throughout the Tampa Bay area. St. Petersburg, Clearwater, Brandon, Wesley Chapel"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-inspection": "/images/service-roof-inspection.webp",
+      "storm-damage-repair": "/images/service-storm-damage-repair.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "commercial-roofing": "/images/service-commercial-roofing.webp"
+    },
+    "servicesResponsive": {
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspection": {
+        "src": "/images/service-roof-inspection.webp",
+        "srcset": "/images/service-roof-inspection-400w.webp 400w, /images/service-roof-inspection-800w.webp 800w, /images/service-roof-inspection-1200w.webp 1200w, /images/service-roof-inspection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-repair": {
+        "src": "/images/service-storm-damage-repair.webp",
+        "srcset": "/images/service-storm-damage-repair-400w.webp 400w, /images/service-storm-damage-repair-800w.webp 800w, /images/service-storm-damage-repair-1200w.webp 1200w, /images/service-storm-damage-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-roofing": {
+        "src": "/images/service-commercial-roofing.webp",
+        "srcset": "/images/service-commercial-roofing-400w.webp 400w, /images/service-commercial-roofing-800w.webp 800w, /images/service-commercial-roofing-1200w.webp 1200w, /images/service-commercial-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
